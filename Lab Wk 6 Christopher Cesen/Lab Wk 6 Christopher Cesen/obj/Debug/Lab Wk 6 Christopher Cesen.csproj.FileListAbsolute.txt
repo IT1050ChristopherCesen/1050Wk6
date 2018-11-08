@@ -1,0 +1,7 @@
+C:\Users\nesec\source\repos\Lab Wk 6 Christopher Cesen\Lab Wk 6 Christopher Cesen\bin\Debug\Lab Wk 6 Christopher Cesen.exe.config
+C:\Users\nesec\source\repos\Lab Wk 6 Christopher Cesen\Lab Wk 6 Christopher Cesen\bin\Debug\Lab Wk 6 Christopher Cesen.exe
+C:\Users\nesec\source\repos\Lab Wk 6 Christopher Cesen\Lab Wk 6 Christopher Cesen\bin\Debug\Lab Wk 6 Christopher Cesen.pdb
+C:\Users\nesec\source\repos\Lab Wk 6 Christopher Cesen\Lab Wk 6 Christopher Cesen\obj\Debug\Lab Wk 6 Christopher Cesen.csprojAssemblyReference.cache
+C:\Users\nesec\source\repos\Lab Wk 6 Christopher Cesen\Lab Wk 6 Christopher Cesen\obj\Debug\Lab Wk 6 Christopher Cesen.csproj.CoreCompileInputs.cache
+C:\Users\nesec\source\repos\Lab Wk 6 Christopher Cesen\Lab Wk 6 Christopher Cesen\obj\Debug\Lab Wk 6 Christopher Cesen.exe
+C:\Users\nesec\source\repos\Lab Wk 6 Christopher Cesen\Lab Wk 6 Christopher Cesen\obj\Debug\Lab Wk 6 Christopher Cesen.pdb
